@@ -1,7 +1,17 @@
 * {
   box-sizing: border-box; }
 
+/*#content-table {
+  position: absolute;
+  height: 500px;
+  width: 40%;
+  left: 30%;
+}
+*/
+
+
 body {
+  position: relative;
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
